@@ -9,4 +9,3 @@ for i in b:
         p.append(i)
 print(*s+p)
     
-    
